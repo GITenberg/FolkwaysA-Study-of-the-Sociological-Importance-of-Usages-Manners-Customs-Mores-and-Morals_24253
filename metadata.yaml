@@ -1,0 +1,29 @@
+_repo: FolkwaysA-Study-of-the-Sociological-Importance-of-Usages-Manners-Customs-Mores-and-Morals_24253
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sumner, William Graham
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '8140'
+    url: http://www.gutenberg.org/2009/agents/8140
+    wikipedia: http://en.wikipedia.org/wiki/William_Graham_Sumner
+description: ''
+gutenberg_issued: '2008-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manners and customs'
+- !lcc 'GT'
+title: 'Folkways
+
+  A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals'
+url: http://www.gutenberg.org/ebooks/24253
